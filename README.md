@@ -2,7 +2,8 @@
 
 Realtime chat using GraphQL Live Queries, Next.js and NextAuth.js &mdash; [tutorial](https://grafbase.com/guides/how-to-build-a-real-time-chat-app-with-nextjs-graphql-and-server-sent-events)
 
-![Chatbase App](/public/og.png)
+![mychatbot logo](https://github.com/shubhamshrivastava11/MyChatBot/assets/128193947/d223ccbb-1ac7-4c7a-8265-7e7cbbc394a8)
+
 
 ## Tools used
 
